@@ -47,12 +47,20 @@ body,
 input,
 button,
 textarea {
-    font: 500 1.6rem Poppins; /* Equivale aos font-weight: 500; font-size: 1.6rem; font-family: Poppins; */
+    /* font: 500 1.6rem Poppins; */
+    font-weight: 500;
+    font-family: Poppins;
+    font-size: 1.6rem;
     color: var(--color-text-base);
 }
 
 #container {
     width: 90vw;
     max-width: 700px;
-    border: 1px solid red;
+}
+
+@media (min-width: 700px) { /* Dispositivos de 700px pra cima (tablets) */
+    :root {
+        font-size: 62.5%; /* Todo 1rem vai ser relativo a 10px */
+    }
 }
