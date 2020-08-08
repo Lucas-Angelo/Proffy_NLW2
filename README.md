@@ -47,7 +47,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 git clone https://github.com/Lucas-Angelo/Proffy_NLW2.git
 
 # Entrar no diretório
-cd nlw2
+cd Proffy_NLW2
 
 # Baixar as dependências
 npm i
