@@ -89,10 +89,16 @@
     margin-left: 0.8rem;
 }
 
-@media (max-width: 699px) { /* Só aplica se for menor que tablet */
+@media (max-width: 1100px) { /* Só aplica se for menor que tablet */
     :root {
         font-size: 40%; /* Modificar a medida do rem */
     }    
+
+    .hero-image {
+        grid-area: image;
+        height: 45rem;
+    }
+    
 }
 
 @media (min-width: 1100px) { /* Para dispositivos com altura de 1100 pra cima */
