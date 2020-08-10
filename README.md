@@ -2,6 +2,7 @@
   <img src="https://ik.imagekit.io/lcs2001/nlw2_6d7PvlHZ5_amGYKf6DKa.svg" width="150" >
 </p>
 
+<<<<<<< HEAD
 ## 📋 Índice
 
 - [Sobre](#-Sobre)
@@ -59,3 +60,7 @@ npm run dev
 Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 ---
+=======
+## Materiais e cronograma: https://www.notion.so/Front-end-ab15ef64dbe7459aba38364cf60af9d2 e https://www.notion.so/Back-end-4440c9aeda8c47d4856a8e4d4069e379
+## Layout do projeto: https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web?node-id=0%3A1
+>>>>>>> 8475720... Update README.md
