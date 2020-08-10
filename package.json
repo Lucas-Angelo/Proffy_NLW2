@@ -1,7 +1,7 @@
 {
-  "name": "nlw2",
+  "name": "proffynlw",
   "version": "1.0.0",
-  "description": "",
+  "description": "<p align=\"center\">\r   <img src=\"https://ik.imagekit.io/lcs2001/nlw2_6d7PvlHZ5_amGYKf6DKa.svg\" width=\"150\" >\r </p>",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/server.js",
@@ -12,8 +12,8 @@
     "url": "git+https://github.com/Lucas-Angelo/Proffy_NLW2.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Lcs2001",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Lucas-Angelo/Proffy_NLW2/issues"
   },
@@ -23,5 +23,6 @@
     "nodemon": "^2.0.4",
     "nunjucks": "^3.2.2",
     "sqlite-async": "^1.1.0"
-  }
+  },
+  "devDependencies": {}
 }
